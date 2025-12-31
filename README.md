@@ -37,15 +37,9 @@ No external libraries or frameworks required.
 1. Clone the repository:
    ```bash
    git clone https://github.com/murad-ismayil/Search-Bar.git
-Open index.html in your browser.
+   
+2. Open index.html in your browser.
 
-To reuse the component:
-
-Copy the extracted <style> block
-
-Copy the .search-wrapper HTML
-
-Paste into your project and customize variables if needed
 
 
 ---
