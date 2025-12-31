@@ -20,7 +20,7 @@ No external libraries or frameworks required.
 
 ## 🔍 Live Preview
 
-👉 **[View Live Demo](https://murad-ismayil.github.io/Search-Bar/)**
+👉 **[View Live Preview](https://murad-ismayil.github.io/Search-Bar/)**
 
 ---
 
