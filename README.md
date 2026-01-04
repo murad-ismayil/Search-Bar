@@ -4,7 +4,7 @@ A modern, minimal, and elegant **search bar UI component** built with pure **HTM
 Designed with a glassmorphism aesthetic, smooth micro-interactions, and a focus on clean UX.  
 No external libraries or frameworks required.
 
----
+--- 
 
 ## ✨ Features
 
