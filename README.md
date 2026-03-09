@@ -14,7 +14,7 @@ No external libraries or frameworks required.
 - Clean, reusable component structure
 - Lightweight and framework-free
 - Built-in **“Get Code”** modal with copy-to-clipboard functionality
-- Keyboard accessible (ESC to close modal)
+- Keyboard accessible (ESC to close modal)    
 
 ---
 
