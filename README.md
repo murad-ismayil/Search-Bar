@@ -8,7 +8,7 @@ No external libraries or frameworks required.
 
 ## ✨ Features
 
-- Glassmorphism design with backdrop blur
+- Glassmorphism design with backdrop blur   
 - Smooth hover and focus animations
 - Fully responsive layout
 - Clean, reusable component structure
